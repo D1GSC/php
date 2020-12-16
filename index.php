@@ -1,7 +1,7 @@
 <?php
 
-	echo "E ai gurizada 123!";
+	echo "E ai gurizada 456!";
 
-	echo "Olá Hcode!"
+	echo "Olá Udemy!"
 
 ?>
